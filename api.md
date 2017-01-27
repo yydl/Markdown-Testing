@@ -10,3 +10,5 @@ This looks really cool. But tables do seem a bit annoying in the raw.
 | --------- | -------------------- | ---- |
 | name      | Their full name | Yes |
 | age     |          | Yes |
+
+Hi!
